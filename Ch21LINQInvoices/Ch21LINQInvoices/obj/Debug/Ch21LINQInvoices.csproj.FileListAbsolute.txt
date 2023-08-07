@@ -1,0 +1,8 @@
+D:\school\SDEV2420\Ch21LINQInvoices\Ch21LINQInvoices\bin\Debug\Ch21LINQInvoices.exe.config
+D:\school\SDEV2420\Ch21LINQInvoices\Ch21LINQInvoices\bin\Debug\Ch21LINQInvoices.exe
+D:\school\SDEV2420\Ch21LINQInvoices\Ch21LINQInvoices\bin\Debug\Ch21LINQInvoices.pdb
+D:\school\SDEV2420\Ch21LINQInvoices\Ch21LINQInvoices\obj\Debug\Ch21LINQInvoices.csproj.AssemblyReference.cache
+D:\school\SDEV2420\Ch21LINQInvoices\Ch21LINQInvoices\obj\Debug\Ch21LINQInvoices.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\Ch21LINQInvoices\Ch21LINQInvoices\obj\Debug\Ch21LINQInvoices.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\Ch21LINQInvoices\Ch21LINQInvoices\obj\Debug\Ch21LINQInvoices.exe
+D:\school\SDEV2420\Ch21LINQInvoices\Ch21LINQInvoices\obj\Debug\Ch21LINQInvoices.pdb

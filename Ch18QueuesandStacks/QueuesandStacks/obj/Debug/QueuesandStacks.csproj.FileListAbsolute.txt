@@ -1,0 +1,8 @@
+D:\school\SDEV2420\QueuesandStacks\QueuesandStacks\bin\Debug\QueuesandStacks.exe.config
+D:\school\SDEV2420\QueuesandStacks\QueuesandStacks\bin\Debug\QueuesandStacks.exe
+D:\school\SDEV2420\QueuesandStacks\QueuesandStacks\bin\Debug\QueuesandStacks.pdb
+D:\school\SDEV2420\QueuesandStacks\QueuesandStacks\obj\Debug\QueuesandStacks.csproj.AssemblyReference.cache
+D:\school\SDEV2420\QueuesandStacks\QueuesandStacks\obj\Debug\QueuesandStacks.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\QueuesandStacks\QueuesandStacks\obj\Debug\QueuesandStacks.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\QueuesandStacks\QueuesandStacks\obj\Debug\QueuesandStacks.exe
+D:\school\SDEV2420\QueuesandStacks\QueuesandStacks\obj\Debug\QueuesandStacks.pdb

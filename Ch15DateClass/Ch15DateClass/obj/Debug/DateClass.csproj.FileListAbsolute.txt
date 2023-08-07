@@ -1,0 +1,8 @@
+D:\school\SDEV2420\DateClass\Ch15DateClass\bin\Debug\Ch15DateClass.exe.config
+D:\school\SDEV2420\DateClass\Ch15DateClass\bin\Debug\Ch15DateClass.exe
+D:\school\SDEV2420\DateClass\Ch15DateClass\bin\Debug\Ch15DateClass.pdb
+D:\school\SDEV2420\DateClass\Ch15DateClass\obj\Debug\DateClass.csproj.AssemblyReference.cache
+D:\school\SDEV2420\DateClass\Ch15DateClass\obj\Debug\DateClass.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\DateClass\Ch15DateClass\obj\Debug\DateClass.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\DateClass\Ch15DateClass\obj\Debug\Ch15DateClass.exe
+D:\school\SDEV2420\DateClass\Ch15DateClass\obj\Debug\Ch15DateClass.pdb

@@ -1,0 +1,8 @@
+D:\school\SDEV2420\GenericMinMax\GenericMinMax\bin\Debug\GenericMinMax.exe.config
+D:\school\SDEV2420\GenericMinMax\GenericMinMax\bin\Debug\GenericMinMax.exe
+D:\school\SDEV2420\GenericMinMax\GenericMinMax\bin\Debug\GenericMinMax.pdb
+D:\school\SDEV2420\GenericMinMax\GenericMinMax\obj\Debug\GenericMinMax.csproj.AssemblyReference.cache
+D:\school\SDEV2420\GenericMinMax\GenericMinMax\obj\Debug\GenericMinMax.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\GenericMinMax\GenericMinMax\obj\Debug\GenericMinMax.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\GenericMinMax\GenericMinMax\obj\Debug\GenericMinMax.exe
+D:\school\SDEV2420\GenericMinMax\GenericMinMax\obj\Debug\GenericMinMax.pdb

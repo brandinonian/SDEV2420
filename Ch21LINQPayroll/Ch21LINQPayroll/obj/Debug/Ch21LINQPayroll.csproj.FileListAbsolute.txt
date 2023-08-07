@@ -1,0 +1,8 @@
+D:\school\SDEV2420\Ch21LINQPayroll\Ch21LINQPayroll\bin\Debug\Ch21LINQPayroll.exe.config
+D:\school\SDEV2420\Ch21LINQPayroll\Ch21LINQPayroll\bin\Debug\Ch21LINQPayroll.exe
+D:\school\SDEV2420\Ch21LINQPayroll\Ch21LINQPayroll\bin\Debug\Ch21LINQPayroll.pdb
+D:\school\SDEV2420\Ch21LINQPayroll\Ch21LINQPayroll\obj\Debug\Ch21LINQPayroll.csproj.AssemblyReference.cache
+D:\school\SDEV2420\Ch21LINQPayroll\Ch21LINQPayroll\obj\Debug\Ch21LINQPayroll.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\Ch21LINQPayroll\Ch21LINQPayroll\obj\Debug\Ch21LINQPayroll.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\Ch21LINQPayroll\Ch21LINQPayroll\obj\Debug\Ch21LINQPayroll.exe
+D:\school\SDEV2420\Ch21LINQPayroll\Ch21LINQPayroll\obj\Debug\Ch21LINQPayroll.pdb

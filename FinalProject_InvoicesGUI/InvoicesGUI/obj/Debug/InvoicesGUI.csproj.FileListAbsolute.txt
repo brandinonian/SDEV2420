@@ -1,0 +1,11 @@
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\bin\Debug\InvoicesGUI.exe.config
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\bin\Debug\InvoicesGUI.exe
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\bin\Debug\InvoicesGUI.pdb
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\obj\Debug\InvoicesGUI.csproj.AssemblyReference.cache
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\obj\Debug\InvoicesGUI.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\obj\Debug\InvoicesGUI.InvoiceGUI.resources
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\obj\Debug\InvoicesGUI.Properties.Resources.resources
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\obj\Debug\InvoicesGUI.csproj.GenerateResource.cache
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\obj\Debug\InvoicesGUI.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\obj\Debug\InvoicesGUI.exe
+D:\school\SDEV2420\InvoicesGUI\InvoicesGUI\obj\Debug\InvoicesGUI.pdb

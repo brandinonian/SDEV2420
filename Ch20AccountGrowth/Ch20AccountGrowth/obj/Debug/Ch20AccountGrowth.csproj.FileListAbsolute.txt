@@ -1,0 +1,8 @@
+D:\school\SDEV2420\Ch20AccountGrowth\Ch20AccountGrowth\bin\Debug\Ch20AccountGrowth.exe.config
+D:\school\SDEV2420\Ch20AccountGrowth\Ch20AccountGrowth\bin\Debug\Ch20AccountGrowth.exe
+D:\school\SDEV2420\Ch20AccountGrowth\Ch20AccountGrowth\bin\Debug\Ch20AccountGrowth.pdb
+D:\school\SDEV2420\Ch20AccountGrowth\Ch20AccountGrowth\obj\Debug\Ch20AccountGrowth.csproj.AssemblyReference.cache
+D:\school\SDEV2420\Ch20AccountGrowth\Ch20AccountGrowth\obj\Debug\Ch20AccountGrowth.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\Ch20AccountGrowth\Ch20AccountGrowth\obj\Debug\Ch20AccountGrowth.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\Ch20AccountGrowth\Ch20AccountGrowth\obj\Debug\Ch20AccountGrowth.exe
+D:\school\SDEV2420\Ch20AccountGrowth\Ch20AccountGrowth\obj\Debug\Ch20AccountGrowth.pdb

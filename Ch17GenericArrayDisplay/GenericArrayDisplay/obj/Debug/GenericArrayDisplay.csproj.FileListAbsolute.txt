@@ -1,0 +1,8 @@
+D:\school\SDEV2420\GenericArrayDisplay\GenericArrayDisplay\bin\Debug\GenericArrayDisplay.exe.config
+D:\school\SDEV2420\GenericArrayDisplay\GenericArrayDisplay\bin\Debug\GenericArrayDisplay.exe
+D:\school\SDEV2420\GenericArrayDisplay\GenericArrayDisplay\bin\Debug\GenericArrayDisplay.pdb
+D:\school\SDEV2420\GenericArrayDisplay\GenericArrayDisplay\obj\Debug\GenericArrayDisplay.csproj.AssemblyReference.cache
+D:\school\SDEV2420\GenericArrayDisplay\GenericArrayDisplay\obj\Debug\GenericArrayDisplay.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\GenericArrayDisplay\GenericArrayDisplay\obj\Debug\GenericArrayDisplay.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\GenericArrayDisplay\GenericArrayDisplay\obj\Debug\GenericArrayDisplay.exe
+D:\school\SDEV2420\GenericArrayDisplay\GenericArrayDisplay\obj\Debug\GenericArrayDisplay.pdb

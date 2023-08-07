@@ -1,0 +1,8 @@
+C:\Users\user1\Desktop\WeeklySaleswithIndexers\WeeklySaleswithIndexers\bin\Debug\WeeklySaleswithIndexers.exe.config
+C:\Users\user1\Desktop\WeeklySaleswithIndexers\WeeklySaleswithIndexers\bin\Debug\WeeklySaleswithIndexers.exe
+C:\Users\user1\Desktop\WeeklySaleswithIndexers\WeeklySaleswithIndexers\bin\Debug\WeeklySaleswithIndexers.pdb
+C:\Users\user1\Desktop\WeeklySaleswithIndexers\WeeklySaleswithIndexers\obj\Debug\WeeklySaleswithIndexers.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\WeeklySaleswithIndexers\WeeklySaleswithIndexers\obj\Debug\WeeklySaleswithIndexers.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\WeeklySaleswithIndexers\WeeklySaleswithIndexers\obj\Debug\WeeklySaleswithIndexers.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\WeeklySaleswithIndexers\WeeklySaleswithIndexers\obj\Debug\WeeklySaleswithIndexers.exe
+C:\Users\user1\Desktop\WeeklySaleswithIndexers\WeeklySaleswithIndexers\obj\Debug\WeeklySaleswithIndexers.pdb

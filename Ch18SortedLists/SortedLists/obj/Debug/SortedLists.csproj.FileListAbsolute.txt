@@ -1,0 +1,8 @@
+D:\school\SDEV2420\SortedLists\SortedLists\bin\Debug\SortedLists.exe.config
+D:\school\SDEV2420\SortedLists\SortedLists\bin\Debug\SortedLists.exe
+D:\school\SDEV2420\SortedLists\SortedLists\bin\Debug\SortedLists.pdb
+D:\school\SDEV2420\SortedLists\SortedLists\obj\Debug\SortedLists.csproj.AssemblyReference.cache
+D:\school\SDEV2420\SortedLists\SortedLists\obj\Debug\SortedLists.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\SortedLists\SortedLists\obj\Debug\SortedLists.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\SortedLists\SortedLists\obj\Debug\SortedLists.exe
+D:\school\SDEV2420\SortedLists\SortedLists\obj\Debug\SortedLists.pdb

@@ -1,0 +1,8 @@
+D:\school\SDEV2420\M1BankingAccount\M1BankingAccount\bin\Debug\M1BankingAccount.exe.config
+D:\school\SDEV2420\M1BankingAccount\M1BankingAccount\bin\Debug\M1BankingAccount.exe
+D:\school\SDEV2420\M1BankingAccount\M1BankingAccount\bin\Debug\M1BankingAccount.pdb
+D:\school\SDEV2420\M1BankingAccount\M1BankingAccount\obj\Debug\M1BankingAccount.csproj.AssemblyReference.cache
+D:\school\SDEV2420\M1BankingAccount\M1BankingAccount\obj\Debug\M1BankingAccount.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\M1BankingAccount\M1BankingAccount\obj\Debug\M1BankingAccount.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\M1BankingAccount\M1BankingAccount\obj\Debug\M1BankingAccount.exe
+D:\school\SDEV2420\M1BankingAccount\M1BankingAccount\obj\Debug\M1BankingAccount.pdb

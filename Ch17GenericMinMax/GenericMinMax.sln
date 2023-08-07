@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMinMax", "GenericMinMax\GenericMinMax.csproj", "{3C6C111E-AD25-4592-BC0D-77DF82630286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMinMaxTests", "GenericMinMaxTests\GenericMinMaxTests.csproj", "{37716631-F73D-46DB-BA45-BDFD7854D941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6C111E-AD25-4592-BC0D-77DF82630286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6C111E-AD25-4592-BC0D-77DF82630286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6C111E-AD25-4592-BC0D-77DF82630286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6C111E-AD25-4592-BC0D-77DF82630286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37716631-F73D-46DB-BA45-BDFD7854D941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37716631-F73D-46DB-BA45-BDFD7854D941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37716631-F73D-46DB-BA45-BDFD7854D941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37716631-F73D-46DB-BA45-BDFD7854D941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E87025A-1BFA-4889-AA6F-1A95480DC224}
+	EndGlobalSection
+EndGlobal

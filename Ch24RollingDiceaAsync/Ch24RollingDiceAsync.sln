@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch24RollingDiceAsync", "Ch23RollingDice\Ch24RollingDiceAsync.csproj", "{AA9C4337-6A30-4B7F-836C-71EA9BAABA53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA9C4337-6A30-4B7F-836C-71EA9BAABA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9C4337-6A30-4B7F-836C-71EA9BAABA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9C4337-6A30-4B7F-836C-71EA9BAABA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9C4337-6A30-4B7F-836C-71EA9BAABA53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {715538EE-1E69-43BA-A851-4E2A66DF8EEF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\school\SDEV2420\PayrollwithProperties\PayrollwithProperties\bin\Debug\PayrollwithProperties.exe.config
+D:\school\SDEV2420\PayrollwithProperties\PayrollwithProperties\bin\Debug\PayrollwithProperties.exe
+D:\school\SDEV2420\PayrollwithProperties\PayrollwithProperties\bin\Debug\PayrollwithProperties.pdb
+D:\school\SDEV2420\PayrollwithProperties\PayrollwithProperties\obj\Debug\PayrollwithProperties.csproj.AssemblyReference.cache
+D:\school\SDEV2420\PayrollwithProperties\PayrollwithProperties\obj\Debug\PayrollwithProperties.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\PayrollwithProperties\PayrollwithProperties\obj\Debug\PayrollwithProperties.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\PayrollwithProperties\PayrollwithProperties\obj\Debug\PayrollwithProperties.exe
+D:\school\SDEV2420\PayrollwithProperties\PayrollwithProperties\obj\Debug\PayrollwithProperties.pdb

@@ -1,0 +1,8 @@
+D:\school\SDEV2420\Ch21LINQLetters\Ch21LINQLetters\bin\Debug\Ch21LINQLetters.exe.config
+D:\school\SDEV2420\Ch21LINQLetters\Ch21LINQLetters\bin\Debug\Ch21LINQLetters.exe
+D:\school\SDEV2420\Ch21LINQLetters\Ch21LINQLetters\bin\Debug\Ch21LINQLetters.pdb
+D:\school\SDEV2420\Ch21LINQLetters\Ch21LINQLetters\obj\Debug\Ch21LINQLetters.csproj.AssemblyReference.cache
+D:\school\SDEV2420\Ch21LINQLetters\Ch21LINQLetters\obj\Debug\Ch21LINQLetters.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\Ch21LINQLetters\Ch21LINQLetters\obj\Debug\Ch21LINQLetters.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\Ch21LINQLetters\Ch21LINQLetters\obj\Debug\Ch21LINQLetters.exe
+D:\school\SDEV2420\Ch21LINQLetters\Ch21LINQLetters\obj\Debug\Ch21LINQLetters.pdb

@@ -1,0 +1,17 @@
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\bin\Debug\net6.0-windows\Ch24FibonacciForm.exe
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\bin\Debug\net6.0-windows\Ch24FibonacciForm.deps.json
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\bin\Debug\net6.0-windows\Ch24FibonacciForm.runtimeconfig.json
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\bin\Debug\net6.0-windows\Ch24FibonacciForm.dll
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\bin\Debug\net6.0-windows\Ch24FibonacciForm.pdb
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\Ch24FibonacciForm.csproj.AssemblyReference.cache
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\Ch24FibonacciForm.csproj.GenerateResource.cache
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\Ch24FibonacciForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\Ch24FibonacciForm.AssemblyInfoInputs.cache
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\Ch24FibonacciForm.AssemblyInfo.cs
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\Ch24FibonacciForm.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\Ch24FibonacciForm.dll
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\refint\Ch24FibonacciForm.dll
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\Ch24FibonacciForm.pdb
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\Ch24FibonacciForm.genruntimeconfig.cache
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\ref\Ch24FibonacciForm.dll
+D:\school\SDEV2420\Ch24FibonacciForm\Ch24FibonacciForm\obj\Debug\net6.0-windows\Ch24FibonacciForm.FibonacciForm.resources

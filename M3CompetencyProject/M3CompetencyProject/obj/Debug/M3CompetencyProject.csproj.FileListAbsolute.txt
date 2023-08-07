@@ -1,0 +1,8 @@
+D:\school\SDEV2420\M3CompetencyProject\M3CompetencyProject\bin\Debug\M3CompetencyProject.exe.config
+D:\school\SDEV2420\M3CompetencyProject\M3CompetencyProject\bin\Debug\M3CompetencyProject.exe
+D:\school\SDEV2420\M3CompetencyProject\M3CompetencyProject\bin\Debug\M3CompetencyProject.pdb
+D:\school\SDEV2420\M3CompetencyProject\M3CompetencyProject\obj\Debug\M3CompetencyProject.csproj.AssemblyReference.cache
+D:\school\SDEV2420\M3CompetencyProject\M3CompetencyProject\obj\Debug\M3CompetencyProject.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\M3CompetencyProject\M3CompetencyProject\obj\Debug\M3CompetencyProject.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\M3CompetencyProject\M3CompetencyProject\obj\Debug\M3CompetencyProject.exe
+D:\school\SDEV2420\M3CompetencyProject\M3CompetencyProject\obj\Debug\M3CompetencyProject.pdb

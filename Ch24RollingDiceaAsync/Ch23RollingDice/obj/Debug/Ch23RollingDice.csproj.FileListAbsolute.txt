@@ -1,0 +1,16 @@
+D:\school\SDEV2420\Ch23RollingDice\Ch23RollingDice\bin\Debug\Ch23RollingDice.exe.config
+D:\school\SDEV2420\Ch23RollingDice\Ch23RollingDice\bin\Debug\Ch23RollingDice.exe
+D:\school\SDEV2420\Ch23RollingDice\Ch23RollingDice\bin\Debug\Ch23RollingDice.pdb
+D:\school\SDEV2420\Ch23RollingDice\Ch23RollingDice\obj\Debug\Ch23RollingDice.csproj.AssemblyReference.cache
+D:\school\SDEV2420\Ch23RollingDice\Ch23RollingDice\obj\Debug\Ch23RollingDice.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\Ch23RollingDice\Ch23RollingDice\obj\Debug\Ch23RollingDice.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\Ch23RollingDice\Ch23RollingDice\obj\Debug\Ch23RollingDice.exe
+D:\school\SDEV2420\Ch23RollingDice\Ch23RollingDice\obj\Debug\Ch23RollingDice.pdb
+D:\school\SDEV2420\Ch24RollingDiceaAsync\Ch23RollingDice\bin\Debug\Ch23RollingDice.exe.config
+D:\school\SDEV2420\Ch24RollingDiceaAsync\Ch23RollingDice\bin\Debug\Ch23RollingDice.exe
+D:\school\SDEV2420\Ch24RollingDiceaAsync\Ch23RollingDice\bin\Debug\Ch23RollingDice.pdb
+D:\school\SDEV2420\Ch24RollingDiceaAsync\Ch23RollingDice\obj\Debug\Ch23RollingDice.csproj.AssemblyReference.cache
+D:\school\SDEV2420\Ch24RollingDiceaAsync\Ch23RollingDice\obj\Debug\Ch23RollingDice.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\Ch24RollingDiceaAsync\Ch23RollingDice\obj\Debug\Ch23RollingDice.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\Ch24RollingDiceaAsync\Ch23RollingDice\obj\Debug\Ch23RollingDice.exe
+D:\school\SDEV2420\Ch24RollingDiceaAsync\Ch23RollingDice\obj\Debug\Ch23RollingDice.pdb

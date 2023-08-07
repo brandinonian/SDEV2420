@@ -1,0 +1,8 @@
+D:\school\SDEV2420\EvenandOddIterators\EvenandOddIterators\bin\Debug\EvenandOddIterators.exe.config
+D:\school\SDEV2420\EvenandOddIterators\EvenandOddIterators\bin\Debug\EvenandOddIterators.exe
+D:\school\SDEV2420\EvenandOddIterators\EvenandOddIterators\bin\Debug\EvenandOddIterators.pdb
+D:\school\SDEV2420\EvenandOddIterators\EvenandOddIterators\obj\Debug\EvenandOddIterators.csproj.AssemblyReference.cache
+D:\school\SDEV2420\EvenandOddIterators\EvenandOddIterators\obj\Debug\EvenandOddIterators.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV2420\EvenandOddIterators\EvenandOddIterators\obj\Debug\EvenandOddIterators.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\EvenandOddIterators\EvenandOddIterators\obj\Debug\EvenandOddIterators.exe
+D:\school\SDEV2420\EvenandOddIterators\EvenandOddIterators\obj\Debug\EvenandOddIterators.pdb

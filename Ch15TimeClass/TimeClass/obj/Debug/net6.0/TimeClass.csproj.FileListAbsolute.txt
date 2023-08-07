@@ -1,0 +1,15 @@
+D:\school\SDEV2420\TimeClass\TimeClass\bin\Debug\net6.0\TimeClass.exe
+D:\school\SDEV2420\TimeClass\TimeClass\bin\Debug\net6.0\TimeClass.deps.json
+D:\school\SDEV2420\TimeClass\TimeClass\bin\Debug\net6.0\TimeClass.runtimeconfig.json
+D:\school\SDEV2420\TimeClass\TimeClass\bin\Debug\net6.0\TimeClass.dll
+D:\school\SDEV2420\TimeClass\TimeClass\bin\Debug\net6.0\TimeClass.pdb
+D:\school\SDEV2420\TimeClass\TimeClass\obj\Debug\net6.0\TimeClass.csproj.AssemblyReference.cache
+D:\school\SDEV2420\TimeClass\TimeClass\obj\Debug\net6.0\TimeClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV2420\TimeClass\TimeClass\obj\Debug\net6.0\TimeClass.AssemblyInfoInputs.cache
+D:\school\SDEV2420\TimeClass\TimeClass\obj\Debug\net6.0\TimeClass.AssemblyInfo.cs
+D:\school\SDEV2420\TimeClass\TimeClass\obj\Debug\net6.0\TimeClass.csproj.CoreCompileInputs.cache
+D:\school\SDEV2420\TimeClass\TimeClass\obj\Debug\net6.0\TimeClass.dll
+D:\school\SDEV2420\TimeClass\TimeClass\obj\Debug\net6.0\refint\TimeClass.dll
+D:\school\SDEV2420\TimeClass\TimeClass\obj\Debug\net6.0\TimeClass.pdb
+D:\school\SDEV2420\TimeClass\TimeClass\obj\Debug\net6.0\TimeClass.genruntimeconfig.cache
+D:\school\SDEV2420\TimeClass\TimeClass\obj\Debug\net6.0\ref\TimeClass.dll
